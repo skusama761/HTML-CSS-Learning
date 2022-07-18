@@ -1,0 +1,49 @@
+/* * {
+  box-sizing: border-box;
+} */
+
+/* p {
+  padding: 10px 20px;
+  border: 5px solid dodgerblue;
+} */
+
+/* .box {
+  background-color: teal;
+  width: 200px;
+  height: 200px;
+  padding: 20px;
+  border: 10px solid pink;
+  display: inline-block;
+} */
+
+/* .box {
+  width: 100vw;
+  height: 100vh;
+  background-color: blueviolet;
+  border: 5px solid green;
+} */
+
+.boxes {
+  border: 5px solid violet;
+}
+
+.box {
+  width: 5rem;
+  height: 5rem;
+}
+
+.box-one {
+  background: red;
+}
+
+.box-two {
+  background: green;
+  position: relative;
+  left: 3rem;
+  bottom: 5rem;
+  z-index: 1;
+}
+
+.box-three {
+  background: blue;
+}
